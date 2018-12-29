@@ -1,2 +1,2 @@
 # Websockets Demo
-introduction to concept of websockets
+How the websocket API works
